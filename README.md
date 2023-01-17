@@ -92,8 +92,11 @@ tweet_id | tweet_date | tweet_content | likes | retweets
 ## Authors Info
 
 LinkedIn - [George Lopez](https://www.linkedin.com/in/george-benjamin-lopez/)
+
 LinkedIn - [Jasmine Albert](https://www.linkedin.com/in/jasmine-albert-99029b207/)
+
 LinkedIn - [Matias Sanchez Wilson](https://www.linkedin.com/in/matiassanchezwilson/)
+
 LinkedIn - [Asfia Hossoin](https://www.linkedin.com/in/asfia-hossoin-9521b6243/)
 
 
