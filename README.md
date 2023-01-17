@@ -62,7 +62,7 @@ Below you can see the ER (Entity Relationship) Diagram of the database in pgAdmi
 
 ### Data Example
 
-After running the following SQL command we have retrieve the table shown below.
+After running the following SQL command we retrieve the table shown below.
 
 ```
 SELECT  
