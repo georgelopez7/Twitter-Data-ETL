@@ -2,7 +2,7 @@
 
 ![MicrosoftTeams-image_1](https://user-images.githubusercontent.com/71076769/212990225-eeec3993-703b-4c33-ac82-797cb7449089.png)
 
-> An ETL (Extract, Transform and Load) pipeline that utilizes the Twitter API to gather the number of likes and retweets of OpenAI's tweets and loads the data into pdAdmin.
+> An ETL (Extract, Transform and Load) pipeline that utilizes the Twitter API to gather the number of likes and retweets of OpenAI's tweets and loads the data into pgAdmin.
 
 ---
 
