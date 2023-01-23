@@ -14,6 +14,9 @@
 - [Database](#database)
 
     -  [Data Example](#data-example) 
+    
+- [Analysis](#analysis)
+
 - [Author Info](#author-info)
 
 ---
@@ -47,6 +50,10 @@ The primary goal of the project is to collect data on the engagement of the Open
 - SQL
 
     Used in pgAdmin to query the database.
+    
+- PowerBI
+    
+    Used to analyse the sentiment scores of the tweets.
 
 [Back To The Top](#twitter-data-etl)
 
@@ -83,6 +90,17 @@ tweet_id | tweet_date | tweet_content | likes | retweets
 1603466863370854400 | 2022-12-15 19:07:45+00 | Our new embedding model is significantly more capa... | 2716| 473
 1598014522098208800 | 2022-11-30 18:02:06+00 | Try talking with ChatGPT, our new AI system which... | 13031| 3421
 1588214604798181400 | 2022-11-03 17:00:44+00 | Weâ€™ve just launched the DALLÂ·E API so developer... | 3700| 717 
+
+[Back To The Top](#twitter-data-etl)
+
+---
+
+## Analysis
+
+Below you can see the analysis of the likes and retweets of OpenAI's tweets.
+
+![MicrosoftTeams-image_3](https://user-images.githubusercontent.com/71076769/214066775-1a2945f8-f20e-426a-8d4c-b3d603f71258.png)
+
 
 [Back To The Top](#twitter-data-etl)
 
